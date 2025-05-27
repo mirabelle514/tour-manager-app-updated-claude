@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Tour Manager - Claude Updated",
+    "slug": "tour-manager-app-updated-claude",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.tourmanager.claude"
+    },
+    "android": {
+      "package": "com.yourcompany.tourmanager.claude"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
